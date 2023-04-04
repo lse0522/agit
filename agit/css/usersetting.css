@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+
+body{
+    background: #F1FBED;
+    padding: 20px;
+    margin: 0px;
+}
+
+.userPoto{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.people{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

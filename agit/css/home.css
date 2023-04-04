@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+
+body{
+    background: #F1FBED;
+    padding: 20px;
+    margin: 0px;
+}
+
+.people {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.user{
+    margin-bottom: 10px;
+}
+
+.userName{
+    padding-left: 10px;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+    font-weight: 900;
+    margin: 0px;
+    display: flex;
+}
+
+.userName p{
+    margin-left: 10px;
+}
+
+.user_rooms{
+    width: 100%;
+    height: auto;
+}
+
+.user_rooms_p{
+    padding: 0px 10px;
+
+}
+
+.user_romms_member{
+    display: flex;
+    padding: 0px 10px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.user_romms_member_1{
+    /* background: darkmagenta; */
+    margin-right: 20px;
+}
+
+.user_romms_member_1 p {
+    margin-top: -8px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.fas{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.user_rooms_p{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 22px;
+    font-weight: 900;
+    margin: 0px;
+    margin-bottom: 16px;
+}
+
+.user_rooms_bg{
+    width: 100%;
+    height: auto;
+    background: #C1BFD9;
+    border-radius: 20px;
+}
+
+
+
+.nav{
+    position:s static;
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 10px;
+    font-family: Gamja Flower;
+}
+
+.nav_box1{
+    text-align: center;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+.nav_box1_p{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+}
+.user_rooms_img{
+    width: 80%;
+    height: 80%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+
+.alert{
+    width: 20px;
+    height: 20px;
+    background: red;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+    top: -30px;
+    left: 10px;
+}
+
+.dot p{
+    margin-top: -4px;
+}

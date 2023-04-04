@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+
+body{
+    background: #F1FBED;
+    margin: 0px;
+}
+
+.page{
+    margin: 20px;
+    width: 90%;
+    height: 500px;
+    background: white;
+    border: 1px solid gray;
+}
+
+.writingNav{
+    width: 100%;
+    height: 40px;
+    background: #3D5939;
+    position : absolute;
+    bottom : 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.writing_nav_p{
+    font-family: Gamja Flower;
+    font-size: 16px;
+    color: white; 
+}
